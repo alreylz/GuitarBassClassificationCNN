@@ -1,0 +1,133 @@
+# IDEs and Editors
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+.idea_modules/
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Eclipse
+.metadata/
+*.log
+*.tmp
+*.bak
+*.swp
+.localhistory/
+.project
+.settings/
+.remote-sync.json
+.sync/
+.ftppass
+.server/
+
+# VS Code
+.vscode/
+.history/
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Vim
+*.swp
+*.swo
+*.swn
+*.un~
+Session.vim
+.netrwhist
+.vimrc
+
+# Emacs
+*~
+\#*\#
+.*.swp
+.\#*
+
+# Atom
+*.atom/
+*.apm/
+*.tree-view/
+.atom-build/
+.atom-packages/
+
+# NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+# Xcode
+*.xcworkspace
+*.xcodeproj
+xcuserdata/
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+xcuserdata/
+*.xcuserstate
+
+# Visual Studio
+.vscode/
+.vscode-test/
+.vscode-server/
+.vscode-remote/
+.vs/
+*.code-workspace
+*.user
+*.userosscache
+*.suo
+*.sln
+*.pdb
+*.cache
+*.log
+*.ilk
+*.ncb
+*.sdf
+*.ipch
+*.aps
+*.pch
+*.vspscc
+*.vssscc
+*.tmp
+*.csproj.user
+*.vbproj.user
+*.pfx
+*.publishsettings
+
+# CLion
+.idea/
+*.iml
+cmake-build-*/
+
+# Android Studio
+.idea/
+.gradle/
+local.properties
+*.iml
+*.hprof
+build/
+captures/
+
+# Rider
+.idea/
+*.sln.iml
+.idea_modules/
+.gradle/
+build/
+
+# Other IDEs and editors
+*~
+\#*\#
+*.swp
+*.swo
+*.bak
+*.tmp

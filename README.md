@@ -40,9 +40,7 @@ downloaded  [here](https://drive.google.com/drive/folders/12QiXJj9cZJzijI63JD5-7
 
 <p align="center">
   <img src="media/guitar-examples.png">
-<comment> Guitar examples</comment>
 </p>
 <p align="center">
   <img src="media/bass-examples.png">
-<comment> Bass examples</comment>
 </p>
